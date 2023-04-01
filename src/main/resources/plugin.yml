@@ -1,0 +1,7 @@
+name: CratesTutorial
+version: '${project.version}'
+main: dev.tim.cratestutorial.Main
+api-version: 1.19
+commands:
+  givekey:
+  setcrate:
